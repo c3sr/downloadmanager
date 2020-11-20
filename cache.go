@@ -8,8 +8,8 @@ import (
 	"github.com/Unknwon/com"
 
 	gocache "github.com/patrickmn/go-cache"
-	"github.com/rai-project/config"
-	"github.com/rai-project/utils"
+	"github.com/c3sr/config"
+	"github.com/c3sr/utils"
 )
 
 var (

@@ -11,7 +11,7 @@ import (
 	getter "github.com/hashicorp/go-getter"
 	gocache "github.com/patrickmn/go-cache"
 	"github.com/pkg/errors"
-	"github.com/rai-project/utils"
+	"github.com/c3sr/utils"
 )
 
 func cleanup(s string) string {
