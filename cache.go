@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 
 	gocache "github.com/patrickmn/go-cache"
 	"github.com/c3sr/config"

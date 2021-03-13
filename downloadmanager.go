@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 	getter "github.com/hashicorp/go-getter"
 	gocache "github.com/patrickmn/go-cache"
 	"github.com/pkg/errors"
